@@ -1,4 +1,4 @@
-Question Link :- <a href="https://codeforces.com/problemset/problem/1843/C">Sum in Binary Tree</a>
+Question Link :- ( https://codeforces.com/problemset/problem/1843/C )
 
 #include<bits/stdc++.h>
 using namespace std;
