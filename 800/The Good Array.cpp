@@ -1,4 +1,4 @@
-Question Link :- (" https://codeforces.com/problemset/problem/1838/A ")
+Question Link :- (" https://codeforces.com/problemset/problem/1839/A ")
 
 #include<bits/stdc++.h>
 using namespace std;
